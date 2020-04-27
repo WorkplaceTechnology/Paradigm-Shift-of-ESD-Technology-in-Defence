@@ -1,0 +1,2 @@
+# Paradigm-Shift-of-ESD-Technology-in-Defence
+Electro-Static charge is an invisible menace that lurks inside your electronics production areas, including zones dedicated to Research and Development, Manufacturing, Testing and Storage.  Very simply, Electro-static charge accumulated on the work surface area damages electronic PCB assemblies and microprocessors, memory chips and other high impedance components which come in contact with it.  We need highly efficient Electro-static dissipative surfaces and work areas where these sophisticated electronic components are used.
